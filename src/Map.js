@@ -48,7 +48,7 @@ class TrackVehicleOnMap extends React.Component {
     render(){
         return (
             <MapClass
-                googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyA0pVifSUWG1lOWJsEbXAa6ZTJoIQSM9SU"
+                googleMapURL="https://maps.googleapis.com/maps/api/js?key=yourKey"
                 loadingElement={<div style={{ height: `100%` }} />}
                 containerElement={<div style={{ height: `700px` }} />}
                 mapElement={<div style={{ height: `100%` }} />}
